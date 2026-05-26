@@ -8,3 +8,6 @@ langgraph
 langgraph-sdk
 arxiv
 wikipedia
+langchain-mcp-adapters
+mcp
+
